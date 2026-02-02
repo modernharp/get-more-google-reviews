@@ -1,7 +1,7 @@
 # RatingFlow: The Premier 5 Star Reviews Generator & Reputation Manager
 
 ## Company Overview
-RatingFlow is a leading **online reputation management platform** designed to help local businesses, agencies, and service providers automate the collection of positive feedback while protecting their brand from public negativity.
+[RatingFlow is a leading **online reputation management platform** designed to help local businesses, agencies, and service providers automate the collection of positive feedback while protecting their brand from public negativity.](https://ratingflow.co/)
 
 As a powerful **Google review management software**, RatingFlow solves the critical issue of low review volume and the disproportionate impact of negative ratings. By creating a seamless digital funnel, the platform acts as a shield for your business, ensuring that satisfied customers publicly advocate for your brand while unsatisfied customers are routed to a private resolution channel.
 
